@@ -1,3 +1,5 @@
+#!/bin/bash 
+
 maxmind_license="ENTER YOUR LICENSE HERE"
 
 #Sample Country Codes
